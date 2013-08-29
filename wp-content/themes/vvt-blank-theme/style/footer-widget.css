@@ -1,0 +1,23 @@
+/* Footer Widgets */
+
+/* width:900px */
+#footerwidgets 
+{ 
+	display: block; width:56%; margin: 0 auto; text-align:center; 
+}
+
+/* background-color: #f3f3e7; */
+#footer-left 
+{ 
+	width: 210px; float: left; margin: 15px 10px 10px 30px; padding: 10px; background-color: #f6f6f6; 
+}
+
+#footer-middle 
+{ 
+	width: 210px; float: left; margin: 15px 10px 10px 15px; padding: 10px; background-color: #f6f6f6; 
+}
+
+#footer-right 
+{ 
+	width: 210px; float: left; margin: 15px 10px 10px 15px; padding: 10px; background-color: #f6f6f6; 
+}

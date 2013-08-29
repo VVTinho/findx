@@ -1,0 +1,25 @@
+/* Info pop-up text with a question mark */
+.box 
+{
+	background-color: #000000;
+	border: 1px solid #CCC;
+	height: 34px;
+	width: 180px;
+	padding: 5px;
+	display: none;
+	position: absolute;
+}
+
+#radera-info
+{
+	float: right;
+    left: -210px;
+    top:10px;
+    position: relative;
+}
+
+#Message
+{
+	color: #ffffff;
+	font-size: 12px; 
+}
